@@ -73,7 +73,3 @@ Open the HTML file for each project in a web browser to run and interact with th
 **Contributing (Optional)**
 
 If you'd like to contribute to these projects, feel free to fork the repository and create pull requests.
-
-**License (Optional)**
-
-Choose a suitable open-source license (e.g., MIT License) and add the license text here or a link to its source.
