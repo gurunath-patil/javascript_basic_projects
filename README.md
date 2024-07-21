@@ -18,48 +18,36 @@ This repository is a collection of basic JavaScript projects designed to demonst
 This project calculates a person's Body Mass Index (BMI) based on their height and weight.
 
 - **Description:** Users enter their height and weight, and the script calculates and displays their BMI along with a corresponding interpretation (e.g., underweight, normal, overweight, etc.).
-- **Live Demo (Optional):** Add a link to your live demo if deployed.
-- **Screenshots (Optional):** Include screenshots to showcase the interface.
 
 ### Basic Calculator <a name="basic-calculator"></a>
 
 This project implements a basic calculator that performs addition, subtraction, multiplication, and division operations.
 
 - **Description:** Users can enter numbers and choose an operation to perform. The script displays the calculated result.
-- **Live Demo (Optional):** Add a link to your live demo if deployed.
-- **Screenshots (Optional):** Include screenshots to showcase the interface.
 
 ### Auto Color Change <a name="auto-color-change"></a>
 
 This project creates a dynamic webpage that automatically changes its background color at regular intervals.
 
 - **Description:** The background color transitions through a defined set of colors or generates random colors.
-- **Live Demo (Optional):** Add a link to your live demo if deployed.
-- **Screenshots (Optional):** Include screenshots to showcase the color changes.
 
 ### Change Background on Click <a name="change-the-background-when-click-on-color"></a>
 
 This project allows users to change the background color of a webpage by clicking on colored buttons or elements.
 
 - **Description:** Each button or element has an associated color that gets applied to the background when clicked.
-- **Live Demo (Optional):** Add a link to your live demo if deployed.
-- **Screenshots (Optional):** Include screenshots to showcase the color options.
 
 ### Guess the Number Game <a name="guess-number-basic-game"></a>
 
 This project creates a simple guessing game where users try to guess a randomly generated number within a certain range.
 
 - **Description:** Users enter their guesses, and the script provides feedback (e.g., higher, lower, correct) until the user guesses the number.
-- **Live Demo (Optional):** Add a link to your live demo if deployed.
-- **Screenshots (Optional):** Include screenshots to showcase the game interface.
 
 ### Tic-Tac-Toe Game <a name="tic-tac-toe-game"></a>
 
 This project implements a basic Tic-Tac-Toe game where users can play against another player or the computer.
 
 - **Description:** Users take turns placing their marks (X or O) on a grid. The script checks for winning conditions or draws.
-- **Live Demo (Optional):** Add a link to your live demo if deployed.
-- **Screenshots (Optional):** Include screenshots to showcase the game board.
 
 **Getting Started (Optional)**
 
