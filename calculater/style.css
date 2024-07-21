@@ -1,0 +1,78 @@
+body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color:skyblue;
+}
+.main-container{
+    border: 5px solid rgb(212, 186, 34);
+    height:72vh;
+    width: 39vw;
+    margin-top:85px;
+    border-radius: 15px;
+    background-color: black;
+}
+
+#display{
+    height: 47px;
+    width: 93%;
+    margin-left:14px;
+    margin-top: 16px;
+    margin-bottom:16px ;
+    border-radius: 15px;
+    font-size: 20px;
+    position: relative;
+    border: 2px solid rgb(98, 167, 161);
+    font-size: 35px;
+    font-weight: bold;
+    padding: 5px;
+}
+/* #acbtn{
+    height:45px;
+    width:60px;
+    margin-left: 9px;
+    position: absolute; 
+     top:118px;
+    border: 2px solid green;
+    color:white;
+    background-color: green;
+    font-size:24px;
+    border-radius: 5px;
+} */
+
+.btns button{
+    font-size:35px;
+    border-radius: 31px;
+    padding: 3px;
+    margin-left: 10px;
+    border: 3px solid rgb(151, 183, 114);
+    color:white;
+    background-color: #3a35357e;
+}
+.btns{
+    width: 92%;
+    margin-left:20px;
+    margin-right:15px;
+    display:grid;
+    grid-template-columns:1fr 1fr 1fr;
+    row-gap: 19px;
+    /* column-gap: 10px; */
+}
+
+#subbtn{
+    font-size: 35px;
+}
+#dot{
+    font-size: 35px;
+}
+
+
+#equalbtn
+{
+    background-color: green;
+}
+#acbtn{
+    background-color: red;
+}
+
+

@@ -1,0 +1,42 @@
+*{
+    margin: 0;padding: 0;
+}
+
+body{
+    border: 2px solid skyblue;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.main-box-container{
+    width: 760px;
+}
+
+.main-box-container div{
+    display: inline-block;
+    border: 2px solid yellow;
+    height: 123px;
+    width: 157px;
+    margin: 10px;
+}
+
+#text{
+    margin: 14px;
+    color:brown;
+    text-transform: capitalize;
+}
+#box1{
+    background-color: black;
+}
+#box2{
+    background-color: red;
+}
+#box3{
+    background-color: green;
+}
+
+#box4{
+    background-color: skyblue;
+}

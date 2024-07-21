@@ -1,0 +1,27 @@
+*{
+    margin: 0;padding: 0;
+    text-transform: capitalize;
+}
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main-container{
+    text-align: center;
+}
+#title{
+    color: red;
+}
+.btn-container button{
+    color: #8E44AD ;
+    height: 40px;
+    width: 101px;
+    margin: 23px;
+    font-size: 22px;
+    font-weight: bold;
+    box-shadow: 5px 3px cadetblue;
+    border-radius: 12px;
+    background-color: white;
+}
